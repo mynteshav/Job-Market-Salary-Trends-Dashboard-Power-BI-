@@ -37,7 +37,7 @@ This interactive Power BI dashboard provides insights into global job market tre
 
 ## 📷 Dashboard Preview
 
-![Main Dashboard Screenshot](./images/screenshot_dashboard.png)
+https://github.com/mynteshav/Job-Market-Salary-Trends-Dashboard-Power-BI-/blob/main/images/screenshot_dashboard.PNG
 
 ---
 
